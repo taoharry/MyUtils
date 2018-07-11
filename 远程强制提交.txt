@@ -1,0 +1,3 @@
+git rest --soft commitid
+
+git push origin branch -f
